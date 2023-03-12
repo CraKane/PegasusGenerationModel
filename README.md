@@ -5,6 +5,7 @@
 ## Method
 - Building a VAE model with transfer learning.
 - Training the model by the dataset we processed.
+![Horses examples I selected](bird.png)
 - 2-channels encoder
 - As for horses and birds dataset, we choosed the figures that birds' wings and horses' head can be seen clearly.
 ## Code folder
